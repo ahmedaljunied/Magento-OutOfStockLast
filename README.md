@@ -1,6 +1,8 @@
 Magento-OutOfStockLast
 ======================
 
+UPDATED: It's now compatible with Magento >= 1.9.3.0
+
 This extension modify all product lists in order to put out of stock products in last positions.
 
 Este módulo modifica a listagem dos produtos, deixando os produtos que não tem estoque por último em todas as listagens.
